@@ -107,8 +107,8 @@ int main()
 
 
 ## OUTPUT
-![image](https://github.com/Jeshwanthkumarpayyavula/Linux-IPC-Message-Queues/assets/145742402/dde14d92-1b23-4015-af34-0699229cd853)
 
+![image](https://github.com/user-attachments/assets/e53eae08-815f-4c7c-a989-ee9816c4dc26)
 
 
 
